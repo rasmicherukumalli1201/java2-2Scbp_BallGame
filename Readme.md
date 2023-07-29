@@ -1,0 +1,1 @@
+This is a standalone java game that runs with a single command '''java Main'''
